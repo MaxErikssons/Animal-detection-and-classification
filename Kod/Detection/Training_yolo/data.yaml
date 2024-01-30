@@ -1,0 +1,9 @@
+
+train: D:\Exjobb\Kod\train_data\images\train # train images
+val: D:\Exjobb\Kod\train_data\images\val # val images 
+#test: D:\Exjobb\Kod\testar\train_data\images\test # test images (optional)
+
+# Classes
+names:
+  0: bear
+  1: wolverine
